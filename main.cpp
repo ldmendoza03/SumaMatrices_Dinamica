@@ -90,3 +90,4 @@ int main(int argc, char** argv) {
 
     return 0; // Finalizar el programa.
 }
+//Realizar en clases este codigo, Estatica a dinamica, prueba de escritorio, prueba del deber
